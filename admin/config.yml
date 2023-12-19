@@ -1,9 +1,4 @@
-development:
-  backend:
-    name: netlify-api
-    url: http://localhost:8080
 
-production:
   backend:
     name: github-api
     repo: Squarebug/jekyll-netlify-cms # Path to your Github repository
